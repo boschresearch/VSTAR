@@ -1,0 +1,14 @@
+====================
+Third Party Licenses
+====================
+
+-------------------------------------------------------------------------
+Overview
+--------------------------------------------------------------------------
+
+VideoCrafter: https://github.com/AILab-CVC/VideoCrafter
+License: Apache-2.0 license
+
+
+DreamSim: https://github.com/ssundaram21/dreamsim
+License: MIT license

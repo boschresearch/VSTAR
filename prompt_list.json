@@ -1,0 +1,274 @@
+[
+    {
+        "prompt": "The process of a lava eruption, from smoke emission to lava cooling",
+        "subprompts": [
+            "A silent, untouched mountain peak under clear skies.",
+            "Wisps of smoke rise from the volcano's summit, hinting at activity beneath.",
+            "Bright orange lava bursts forth, streaming down the slopes.",
+            "Rivers of glowing red and orange lava carve paths through the landscape.",
+            "The once-flowing lava darkens to black as it cools, reshaping the mountain's contours."
+        ]
+    },
+    {
+        "prompt": "A boy is getting old",
+        "subprompts": [
+            "A young boy, energetic and smiling",
+            "A taller teenager, with the onset of facial hair",
+            "A young man, with a confident posture and mature features",
+            "A man, with graying hair and visible lines on his face",
+            "An elderly individual, with white hair and deeper wrinkles"
+        ]
+    },
+    {
+        "prompt": "A young boy becomes an old man, and turns into a young girl",
+        "subprompts": [
+            "A young boy, energetic and smiling, urban landscape background,futuristic design,moody lighting,ultra-detailed",
+            "A taller teenager, with the onset of facial hair, urban landscape background,futuristic design,moody lighting,ultra-detailed",
+            "A young man, with a confident posture and mature features, urban landscape background,futuristic design,moody lighting,ultra-detailed",
+            "A man, with graying hair and visible lines on his face, urban landscape background,futuristic design,moody lighting,ultra-detailed",
+            "An elderly individual, with white hair and deeper wrinkles, urban landscape background,futuristic design,moody lighting,ultra-detailed",
+            "A woman, with graying hair and visible lines on his face, urban landscape background,futuristic design,moody lighting,ultra-detailed",
+            "A young woman, with a confident posture and mature features, urban landscape background,futuristic design,moody lighting,ultra-detailed",
+            "A taller teenager girl, with the onset of facial hair, urban landscape background,futuristic design,moody lighting,ultra-detailed",
+            "A young girl, energetic and smiling, urban landscape background,futuristic design,moody lighting,ultra-detailed"
+        ]
+    },
+    {
+        "prompt": "Spiderman on the beach from morning to evening",
+        "subprompts": [
+            "Spider-Man stands on the beach, the early morning sun casting a soft, golden light across the sand and water.",
+            "Spider-Man stands on the dunes under a bright blue sky, his suit stark against the sunlit, golden sand.",
+            "Golden-orange light envelops Spider-Man by the sea, turning the water amber under a deepening blue sky.",
+            "Spider-Man watches the sunset, surrounded by orange to rich purple skies, reflecting on the dusky blue sea.",
+            "Spider-Man is outlined by moonlight on the beach, with silver sands and dark waves under an indigo sky."
+        ]
+    },
+    {
+        "prompt": "Superman flying in the sky, sunny day becomes a dark rainy day, best quality, 4k, realistic",
+        "subprompts": [
+            "Superman flies high above, with the backdrop of a bright, sunny sky and minimal clouds, best quality, 4k, realistic",
+            "Superman continues his flight as the sky turns menacingly gray, with the first drops of rain beginning to fall, best quality, 4k, realistic",
+            "Superman moves through a dark, stormy sky, surrounded by heavy rain and occasional flashes of lightning, best quality, 4k, realistic"
+        ]
+    },
+    {
+        "prompt": "A Ferrari driving on the road, starts to snow",
+        "subprompts": [
+            "A Ferrari driving on the road under clear skies",
+            "A Ferrari driving on the road, as snow begins to fall",
+            "A Ferrari driving on the road in heavy snow"
+        ]
+    },
+    {
+        "prompt": "A peony starts to bloom, in the field",
+        "subprompts": [
+            "A tight, spherical peony bud appears on the stem, in the field",
+            "The bud begins to open slightly, revealing the first signs of petals, in the field",
+            "More petals are visible as the flower starts to open wider, showing off its color and form, in the field",
+            "The peony is completely open, displaying a full sphere of vibrant, overlapping petals in full glory, in the field"
+        ]
+    },
+    {
+        "prompt": "Rainbow appears after the rainy day",
+        "subprompts": [
+            "The sky is overcast and rainy, with clouds covering the horizon",
+            "The rain stops, and the clouds begin to clear, revealing the sun",
+            "A vibrant rainbow appears in the sky, arching across where the rain once fell"
+        ]
+    },
+    {
+        "prompt": "The seasonal cycle of a lake from frozen winter to autumn,a shot at eye level",
+        "subprompts": [
+            "A shot at eye level, the lake is completely frozen over, its surface covered with a thick layer of ice and snow.",
+            "A shot at eye level, edges of the lake start to thaw, revealing water; snow begins to melt on the surrounding land.",
+            "A shot at eye level, the lake is fully thawed, teeming with life, its waters clear and surrounded by lush green vegetation.",
+            "A shot at eye level, water reflects the vibrant hues of surrounding foliage in reds, oranges, and yellows as temperatures begin to cool."
+        ]
+    },
+    {
+        "prompt": "A day at the beach from dawn till dusk",
+        "subprompts": [
+            "The midday sun on the beach",
+            "The setting sun casting golden hues",
+            "Twilight descending on an empty beach."
+        ]
+    },
+    {
+        "prompt": "A caterpillar transforming into a butterfly",
+        "subprompts": [
+            "A caterpillar munching on leaves",
+            "Forming a chrysalis.",
+            "Emerging as a butterfly",
+            "The butterfly spreads its new wings"
+        ]
+    },
+    {
+        "prompt": "A flower starts to bloom",
+        "subprompts": [
+            "A small, tight bud appears on the stem.",
+            "The flower is half-open, with some petals still curled inward.",
+            "The flower is fully open, displaying all its petals and vibrant colors"
+        ]
+    },
+    {
+        "prompt": "A pizza is being made",
+        "subprompts": [
+            "A ball of pizza dough is flattened into a round shape.",
+            "Tomato sauce and mozzarella cheese are spread evenly over the flattened dough.",
+            "The pizza is baked until the cheese is bubbly and the crust is golden brown."
+        ]
+    },
+    {
+        "prompt": "A mural being painted on a city wall",
+        "subprompts": [
+            "A large, empty wall is prepped and cleaned for painting.",
+            "Artists sketch the mural's outline directly onto the wall.",
+            "Broad areas of the mural are filled in with base colors.",
+            "The finished mural stands vibrant, transforming the city wall into a work of art."
+        ]
+    },
+    {
+        "prompt": "A landscape transitioning from winter to spring",
+        "subprompts": [
+            "The landscape is covered in a thick layer of snow, with bare trees.",
+            "Snow begins to melt, revealing patches of ground and the bases of trees.",
+            "Early signs of greenery emerge as plants start to sprout and trees bud.",
+            "Flowers bloom and trees are adorned with fresh leaves, adding color to the landscape.",
+            "The landscape is fully transformed, vibrant with lush greenery and blooming flora."
+        ]
+    },
+    {
+        "prompt": "A young girl is aging",
+        "subprompts": [
+            "A young girl with bright eyes and a playful smile.",
+            "A girl in her teens, showing the first signs of maturity.",
+            "The woman, showing subtle signs of aging, carries an air of grace.",
+            "An elderly woman, her face etched with the marks of a life fully lived."
+        ]
+    },
+    {
+        "prompt": "The sun rises from the sea, making the dark sky bright",
+        "subprompts": [
+            "The sea lies calm under the dark, star-studded sky.",
+            "A hint of light appears at the horizon, where sea meets sky.",
+            "The sun's edge peeks above the sea, casting a warm glow.",
+            "The sky transforms from dark to vivid shades of orange and pink.",
+            "The sun fully rises, illuminating the sea and sky with daylight."
+        ]
+    },
+    {
+        "prompt": "A night sky changing from dusk till dawn",
+        "subprompts": [
+            "The last light of the sun fades, leaving a gradient of pink and orange along the horizon.",
+            "Stars begin to appear, with Venus visible in the deepening blue sky.",
+            "The sky is fully dark, densely populated with stars and the Milky Way clearly visible.",
+            "The darkest part of the night gives way to the first light of approaching dawn.",
+            "The sky brightens from black to blue, with the first rays of the sun ending the night."
+        ]
+    },
+    {
+        "prompt": "From sunrise to sunset at the beach",
+        "subprompts": [
+            "The horizon brightens as the sun peeks over the ocean, casting a gentle golden light on the tranquil beach.",
+            "As the day progresses, the sunlight softens, casting long shadows and offering a respite from the heat.",
+            "The sun dips toward the horizon, painting the sky in vibrant hues of orange, pink, and purple, signaling the day's end at the beach."
+        ]
+    },
+    {
+        "prompt": "A makeup transformation",
+        "subprompts": [
+            "A clean, moisturized face, showcasing natural features without any makeup.",
+            "An even skin tone and masking imperfections after a smooth layer of foundation is applied",
+            "Eyelids are adorned with eyeshadow, eyeliner defines the lash line, and mascara elongates the lashes, enhancing the eyes' shape and color.",
+            "Cheekbones and facial structure are defined with contouring, while highlighting brings forward certain areas, adding dimension.",
+            "Lips are colored with lipstick, and setting spray is misted over the face, completing the transformation with a radiant, polished look."
+        ]
+    },
+    {
+        "prompt": "The life cycle of a frog",
+        "subprompts": [
+            "Clusters of jelly-like eggs floating in water, each containing a tiny black dot at the center.",
+            "Small, black, fish-like creatures with long tails and no legs, swimming in water.",
+            "Larger tadpoles with visible hind legs sprouting, while the tail remains but starts to shorten.",
+            "A miniature version of an adult frog with a small tail stub, using both legs and tail for movement.",
+            "A fully developed frog with prominent legs for jumping, no tail, and a distinct color pattern on its skin."
+        ]
+    },
+    {
+        "prompt": "The seasonal cycle of a lake from frozen winter to summer",
+        "subprompts": [
+            "The lake is solid ice, surrounded by snow-covered trees and land.",
+            "Edges of the lake start to thaw, revealing water; snow begins to melt on the surrounding land.",
+            "The lake is fully thawed, water clear, with surrounding vegetation turning green.",
+            "The lake is active with swimming, boating, and surrounded by lush greenery."
+        ]
+    },
+    {
+        "prompt": "The process of a woman losing 50kg of weight",
+        "subprompts": [
+            "A woman appears significantly overweight, with a determined look in her eyes.",
+            "A woman is slight slimming is noticeable, especially around the face and arms; her posture improves.",
+            "A woman is much slimmer, with clear definition in her waist and a healthier overall appearance.",
+            "A woman appears fit and strong, having lost a significant amount of weight, radiating health and vitality."
+        ]
+    },
+    {
+        "prompt": "A female person's hairstyle changing through the years",
+        "subprompts": [
+            "A young girl with a simple ponytail, adorned with colorful ribbons.",
+            "A teenager with layered hair, bangs, or possibly highlights, experimenting with trends.",
+            "A young woman with a sophisticated haircut, reflecting her personal and professional growth.",
+            "A mature woman with a timeless, low-maintenance hairstyle, often opting for shorter lengths.",
+            "An elderly lady with gracefully aged, shorter hair, embracing natural colors and textures."
+        ]
+    },
+    {
+        "prompt": "A tree's transformation through carving into a sculpture",
+        "subprompts": [
+            "A solid, uncarved tree stands tall, with its bark fully intact.",
+            "More detailed carving reveals the emerging form of the sculpture, with recognizable features.",
+            "A detailed sculpture, showcasing intricate artistry and craftsmanship."
+        ]
+    },
+    {
+        "prompt": "The restoration of a classic car from rusted relic to showroom condition",
+        "subprompts": [
+            "A classic car, showing significant rust and wear, with faded and peeling paint.",
+            "The classic car, shining with polished chrome and a glossy exterior, looking like new, ready to dazzle for show"
+        ]
+    },
+    {
+        "prompt": "A tree through the seasons",
+        "subprompts": [
+            "Budding leaves in spring.",
+            "Full foliage in summer.",
+            "Leaves changing color and falling in autumn.",
+            "Bare branches in winter."
+        ]
+    },
+    {
+        "prompt": "Meat in the pan is getting cooked",
+        "subprompts": [
+            "a raw piece of meat placed in the pan on the stove",
+            "the meat begins to sizzle, slowly changing from pink to brown as it cooks",
+            "the meat is fully cooked, turning a rich, golden brown, with steam rising from the pan"
+        ]
+    },
+    {
+        "prompt": "A rose flower starts to bloom, snowy landscape",
+        "subprompts": [
+            "A small, tightly closed rose bud against a backdrop of fresh, untouched snow",
+            "The rose bud is partially open, revealing hints of color, amidst a snowy scene with soft snowflakes falling around",
+            "The rose fully blooms, its vibrant petals contrasting sharply against the white snow, with delicate snowflakes accentuating its beauty"
+        ]
+    },
+    {
+        "prompt": "A camel in the desert from sunrise to sunset till a dark evening",
+        "subprompts": [
+            "The camel stands in the desert, bathed in the soft, pink-orange glow of the rising sun, casting a long shadow, in the style of hyper-realistic atmospheres, anime aesthetic,",
+            "Illuminated by the intense overhead sun, the camel's shadow shrinks beneath it, with the desert sands radiating heat, in the style of hyper-realistic atmospheres, anime aesthetic,",
+            "The camel's form is outlined in golden light, with elongated shadows stretching into the cooling sands, as the sky turns a deep orange, in the style of hyper-realistic atmospheres, anime aesthetic,",
+            "Now a silhouette, the camel is set against a backdrop of darkening blue skies and the first twinkles of stars, the desert quiet and cool, in the style of hyper-realistic atmospheres, anime aesthetic,"
+        ]
+    }
+]
