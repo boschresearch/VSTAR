@@ -1,7 +1,7 @@
 
 # VSTAR: Generative Temporal Nursing for Longer Dynamic Video Synthesis
 
-:fire:  Official implementation of "VSTAR: Generative Temporal Nursing for Longer Dynamic Video Synthesis" 
+:fire:  Official implementation of "VSTAR: Generative Temporal Nursing for Longer Dynamic Video Synthesis" (ICLR2025)
 
 🚀**TL;DR**: VSTAR enables *pretrained* text-to-video models to generate longer videos with dynamic visual evolution in a **single** pass, **without finetuning needed**.
 
